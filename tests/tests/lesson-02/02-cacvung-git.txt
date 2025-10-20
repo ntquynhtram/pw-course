@@ -1,0 +1,12 @@
+a. Tạo 3 file: file1, file2, file3 
+local
+b. Chạy lệnh: git init 
+working history
+c. Chạy lệnh: git commit -m”init project”
+error (do chưa được add vào stg)
+d. Chạy lệnh: git add file1”
+file1 được add vào stg
+e. Chạy lệnh: git commit -m”add file1”
+file1 được add vào repository
+f. Chạy lệnh: git commit -m”add file1”
+error do không còn file nào để add vào

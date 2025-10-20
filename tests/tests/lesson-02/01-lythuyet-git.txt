@@ -1,0 +1,4 @@
+git init: dùng để khởi tạo git. Ban đầu các file được tạo ra (chưa init) thì đang ở local, sau khi dùng lệnh này thì sẽ khởi tạo git để di chuyển các file sang vùng working directory;
+git add file_name: thêm 1 file được xác định vào vùng stg;
+git add .: thêm tất cả các file vào vùng stg;
+git commit -m"message": thực hiện commit, đưa những file nằm trong vùng stg di chuyển vào vùng repository;
