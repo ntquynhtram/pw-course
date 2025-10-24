@@ -79,5 +79,5 @@ let dec = {
     month: 12,
     total: 123,
 };
-let revenueYear = [[jan], [feb], [march], [april], [may], [june], [july], [aug], [sep], [oct], [nov], [dec]];
+let revenueYear = [jan, feb, march, april, may, june, july, aug, sep, oct, nov, dec];
 console.log(revenueYear);
