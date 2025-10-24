@@ -1,8 +1,0 @@
-git commit --admen;
--> 
-git commit --admen -m<message>;
--> chỉnh sửa commit message cũ thành commit message mới
-git restore --staged<file>;
--> revert 1 file cụ thể từ stg area về lại working directory
-git reset HEAD~1;
--> revert về 1 commit trước đó
