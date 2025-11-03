@@ -1,5 +1,5 @@
 //bài tập 1//
-function multiply(a, b) {
+function multiply(a,b) {
     console.log(`${a}*${b} = ${a * b}`);
 };
 multiply(1, 2);
